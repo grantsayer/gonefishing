@@ -1,0 +1,23 @@
+Applications
+Box Sync
+Desktop
+Documents
+Downloads
+GS-Test-MQU-With-Readme
+Google Drive File Stream
+Library
+Movies
+Music
+OneDrive
+Pictures
+Public
+PycharmProjects
+Untitled.ipynb
+edb_pgjdbc.app.zip
+edb_psqlodbc.app.zip
+gonefishing
+grantsplanet
+iCloud Drive (Archive)
+iCloud Drive (Archive) - 1
+mylocalgit
+planet
